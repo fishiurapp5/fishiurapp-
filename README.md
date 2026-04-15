@@ -1,2 +1,2 @@
-# fishiuapp 
+# fishiurapp 
 github page
